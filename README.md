@@ -1,8 +1,6 @@
 # DL-TOLMON-BI-IMPROVEMENT
+
 Deep Learning Based Toll Gate Traffic Prediction and Decision Support System for Efficient Urban Transportation
-
-# Toll Monitoring Dashboard
-
 Proyek ini berisi notebook analisis, dataset, dan dashboard HTML untuk monitoring kondisi gerbang tol.
 
 ## Isi Repository
